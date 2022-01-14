@@ -5,7 +5,7 @@
 ###
 <p align="center">
     <a href="https://www.linkedin.com/in/gabriel-w-n-7b2132220/" target="_blank" rel="noopener noreferrer"><img align="center" src="Assets/LinkedinBtn.png" width="150px" /></a>
-    <a href="https://github.com/gabrielnosek" target="_blank" rel="noopener noreferrer"><img align="center" src="Assets/PortfolioBtn.png" width="150px" /></a>
+    <a href="https://gabrielnosek.github.io" target="_blank" rel="noopener noreferrer"><img align="center" src="Assets/PortfolioBtn.png" width="150px" /></a>
 </p>
 
 ---
